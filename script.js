@@ -1,7 +1,7 @@
 function initActiveMenu(){
   const header = document.querySelector('#header');
   const hero = document.querySelector('#hero');
-  const heroAltura = hero.clientHeight * 0.75;
+  const heroAltura = hero.clientHeight * 0.72;
   
   if (header){
         function activeMenu(){
