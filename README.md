@@ -1,4 +1,4 @@
-# Single Page Site - Practice - 
+# Single Page Site - Practice - dantech
 
 Layout from [this Hugo theme](https://janraasch.github.io/hugo-scroll/).
 
